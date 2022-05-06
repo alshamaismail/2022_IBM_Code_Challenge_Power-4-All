@@ -1,0 +1,167 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 5 May, 2022, 5:55:19 PM
+    Author     : DIVYA B VENUGOPAL
+*/
+body{
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+background-color: rgb(0,0,51);
+text-align: center;
+}
+
+header{
+background-color: rgba(135,206,235,0.9);
+text-align: center;
+font-size: 32pt;
+padding: .2em;  
+}
+
+h1{
+text-align: center;
+font-weight: bold;
+color: whitesmoke;
+font-style: italic;
+}
+
+h2{
+text-align: center;
+font-weight: bold;
+color: whitesmoke;
+font-style: italic;
+}
+
+p{
+text-align: center;
+color: whitesmoke;
+}
+
+a{
+text-decoration: none;
+display: inline-block;
+font-size: 22pt;
+color: whitesmoke;
+}
+
+table,thead,tbody
+{
+  border: 2.8rem #0066FF;
+  border-collapse: collapse;
+  text-align: center;
+  margin: 0 auto;
+  font-weight: bold;
+}
+th, tr, td 
+{
+    padding: 15px;
+    color: white;
+}
+th
+{
+    color: white;
+}
+
+input[type=text] {
+  border: 0.2rem solid #fff;
+  border-radius: 100rem;
+  padding: 0.4em;
+}
+
+input[type=text]:focus {
+  background-color: lightblue;
+}
+
+input[type=number] {
+  border: 0.2rem solid #fff;
+  border-radius: 100rem;
+  padding: 0.4em;
+}
+
+input[type=number]:focus {
+  background-color: lightblue;
+}
+
+input[type=password] {
+  border: 0.2rem solid #fff;
+  border-radius: 100rem;
+  padding: 0.4em;
+}
+
+input[type=password]:focus {
+  background-color: lightblue;
+}
+
+.select{
+  border: 0.2rem solid #fff;
+  border-radius: 100rem;
+  padding: 0.4em;
+}
+
+.select:focus {
+  background-color: lightblue;
+}
+
+input[type=submit] {
+  border: 0.2rem solid #fff;
+  border-radius: 100rem;
+  padding: 0.5em;
+}
+
+input[type=submit]:hover {
+  background-color: lightblue;
+}
+
+input[type=reset] {
+  border: 0.2rem solid #fff;
+  border-radius: 100rem;
+  padding: 0.5em;
+}
+
+input[type=reset]:hover {
+  background-color: lightblue;
+}
+
+.button{
+  text-align: center;
+  font-weight: bold;
+  color: whitesmoke;
+  font-style: italic; 
+  border: 0.2rem solid #fff;
+  border-radius: 1rem;
+  padding: 1.2em;
+  box-shadow: 0 0 .2rem #fff,
+              0 0 .2rem #fff,
+              0 0 2rem #0066FF,
+              0 0 0.8rem #0066FF,
+              0 0 2.8rem #0066FF,
+              inset 0 0 1.3rem #0066FF;
+  display: inline-block;
+  margin: 50px
+}
+
+.border1{
+  border: 0.2rem solid #fff;
+  border-radius: 1rem;
+  padding: 0.4em;
+  box-shadow: 0 0 .2rem #fff,
+              0 0 .2rem #fff,
+              0 0 2rem #0066FF,
+              0 0 0.8rem #0066FF,
+              0 0 2.8rem #0066FF,
+              inset 0 0 1.3rem #0066FF;
+}
+
+.border2{
+  border: 0.2rem solid #fff;
+  border-radius: 1rem;
+  padding: 0.6em;
+  box-shadow: 0 0 .2rem #fff,
+              0 0 .2rem #fff,
+              0 0 2rem #0066FF,
+              inset 0 0 1.3rem #0066FF;
+}
