@@ -39,6 +39,9 @@ Technical Details:
 
 The UI of the proposed system can be found at https://electricitywebsite.divyabvenugopal.repl.co/ . Note that this is only the front end part written in html and not the fully functional web application. The code for the fully functional web application can be found in the repository.
 
+Flow Diagram:
+<img src="https://github.com/divyabvenugopal/2022_IBM_Code_Challenge_Power-4-All/blob/main/image/FlowDiagram.jpeg" alt="Flow Diagram"/>
+
 Individual Contributions:
 - Alshama M.S: Documentation, Flow Diagram and UI Design of Home page and Lineman Login Page.
 - Divya B Venugopal: Documentation, UI design of Consumer Login Page, Consumer's Page, Complaint Registration Page and View Complaints Page and Design and Development of backend database.
